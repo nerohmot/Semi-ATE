@@ -19,7 +19,7 @@ organizing semiconductor testing in such a way that **all** use- (and special) c
 
 The `Semi-ATE` package is written purely in Python (noarch) and provides besides libraries also a plugin to the [Spyder](https://www.spyder-ide.org/) IDE.
 
-## Packages
+## Packages 
 
 The Semi-ATE project is maintained in this single repository, however it is released as a set of packages (all with the same version number) to accomodate the different use-cases.
 
